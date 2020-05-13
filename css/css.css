@@ -1,0 +1,24 @@
+body {
+background-image: url(https://znanie-sila.su/wp-content/uploads/2018/05/16395550.jpg);
+background-repeat: no-repeat;
+background-position: center;
+background-size:cover;
+min-height:600px;
+}
+.link {
+	position:absolute;
+	margin-left:500px;
+	margin-top:300px;
+	background-color: yellow;
+	padding:10px;
+	font-size:3em;
+	border-radius: 10px;
+}
+a {
+	color:orange;
+}
+a:hover {
+	color:orange;
+	text-decoration: none;
+	
+}
